@@ -1,0 +1,42 @@
+button
+{
+  margin-left: 2em;
+  border-radius: 2em;
+  border: none;
+  padding: 0.5em 1em;
+  font-size: medium;
+  background-color: cadetblue;
+}
+table {
+  border-collapse: collapse;
+  width: 70%;
+  margin: auto;
+}
+fieldset
+{
+  padding: 2em;
+}
+
+label
+{
+  margin-right: 0.5rem;
+  width: 100px;  
+  font-weight:600;
+}
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color:burlywood}
+tr:nth-child(odd){background-color:rgb(250, 245, 191)}
+
+th {
+  background-color:chocolate;
+  color: white;
+}
+
+.custom-form
+{
+    background-color: #ffe8e0;
+}

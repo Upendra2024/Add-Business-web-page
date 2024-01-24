@@ -1,0 +1,49 @@
+ [
+      {
+        "id": 1,
+        "imageUrl": "https://www.adroll.com/assets/img/ecommerce-marketing/img-automation_studio.png?format=jpg&auto=webp&width=400&dpr=1.5",
+        "title": "AdRoll works for the one-person marketing team.",
+        "description": "Our industry-first automation builder gives you full control of campaigns across display, social, and email — all from one place.",
+        "linkText": "Explore automation builder",
+        "alt":"imagetwo",
+        "strpimg1":"https://www.adroll.com/assets/img/logos/lounge.png?format=png&auto=webp&width=209&dpr=1.5",
+        "strpimg2":"https://www.adroll.com/assets/img/logos/topo-designs.png?format=png&auto=webp&width=209&dpr=1.5",
+        "strpimg3":"https://www.adroll.com/assets/img/logos/peyton-jewelry.png?format=png&auto=webp&width=209&dpr=1.5",
+        "strpimg4":"https://www.adroll.com/assets/img/logos/shady-rays.png?format=png&auto=webp&width=209&dpr=1.5",
+        "strpimg5":"https://www.adroll.com/assets/img/logos/exploading-kittens.png?format=png&auto=webp&width=209&dpr=1.5",
+        "strpimg6":"https://www.adroll.com/assets/img/logos/head-kandy.png?format=png&auto=webp&width=209&dpr=1.5"
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://www.adroll.com/assets/img/homepage/customers-find.png?format=png&auto=webp&width=398&dpr=1.5",
+        "title": "For 15 years, we've been the leader in helping our customers find their best customers",
+        "description": "The AdRoll platform is powered by 15+ years of data from hundreds of thousands of brands and billions of shoppers. Let our expertise find the right customers for your business.",
+        "linkText": "Learn more",
+        "alt":"imagethree"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://www.adroll.com/assets/img/homepage/save-time.png?format=png&auto=webp&width=398&dpr=1.5",
+        "title": "Save time and energy by running all your campaigns across millions of websites and mobile apps — from one place",
+        "description": "When we say one-stop shop, we mean one-stop. Launch, pause, and edit ad campaigns across all the places you want to advertise, plus use that data to see your campaigns holistically and make improvements.",
+        "linkText": "Explore social ads manager",
+        "alt":"imagefour"
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://www.adroll.com/assets/img/homepage/correct-choices.png?format=png&auto=webp&width=398&dpr=1.5",
+        "title": "Our retargeting and brand awareness ads make billions of correct choices every day",
+        "description": "Our AI does what even the most savvy marketer alone cannot. Our powerful machine learning makes more predictions per second than the NASDAQ to attract the right customers to your site and get them buying again and again.",
+        "linkText": "Explore retargeting ads",
+        "linkText1":"Explore brand awareness ads",
+        "alt":"imagefive"
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://www.adroll.com/assets/img/homepage/experts.png?format=png&auto=webp&width=398&dpr=1.5",
+        "title": "Experts to manage your advertising",
+        "description": "Want to run effective campaigns but don’t have the bandwidth to manage different platforms? AdRoll managed services can be an extension of your marketing team, providing you with a dedicated platform expert to partner with, helping you and your team achieve your marketing goals and maximize return from your campaigns.",
+        "linkText": "Get the support you deserve",
+        "alt":"imagesix"
+      }
+]

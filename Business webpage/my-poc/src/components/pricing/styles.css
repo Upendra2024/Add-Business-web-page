@@ -1,0 +1,89 @@
+h1,p
+{
+  margin: 0;
+  padding: 0;
+}
+
+.container-filter
+{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    background-image: url(https://www.adroll.com/assets/img/pricing/hero-pricing.jpg);
+    color: #fff;
+}
+
+.buttons-container
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button
+{
+    border: 1px solid black;
+    background: transparent;
+    margin: 5px 5px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.button:hover
+{
+    box-shadow: 3px 3px 0px 0px rgba(0,0,0);
+}
+
+.items-container
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    justify-content: center;
+}
+
+.item
+{
+    padding: 4px 10px;
+    width:22%;
+    height: 350px;
+    margin: 4px 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.category
+{
+    color: #64748b;
+    font-size: 10px;
+}
+
+.active
+{
+    background-color: #1e293b;
+    color: white;
+}
+.item-name
+{
+    color: #000;
+    text-align: center;
+}
+
+.descriptions
+{
+    color:#64748b;
+    font-weight:400;
+    text-align: center;
+}
+
+.cst-btn
+{
+    color: #fff;
+    font-weight: bold;
+}

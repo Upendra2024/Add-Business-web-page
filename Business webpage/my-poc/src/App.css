@@ -1,0 +1,193 @@
+.home,
+.consulting,
+.contactus,
+.design,
+.development,
+.marketing,
+.products,
+.services,
+.signup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  font-size: 4rem;
+}
+
+.card-img
+{
+    height: 350px;
+    width: 400px !important;
+}
+
+.card-img-hero
+{
+    height: 600px;
+    width: 780px !important;
+    margin-top: -110px;
+}
+
+.cards:nth-child(odd)
+{
+    flex-direction:row-reverse;
+}
+
+.cards:nth-child(4)
+{
+    background-color: #f4f6f9;
+}
+.herocard .cardimg-hero
+{
+    background-image: url(https://www.adroll.com/assets/svg/bkgd/blob-blue.svg);
+    background-position: left -65px bottom -200px;
+    background-repeat: no-repeat;
+    margin: -50px 0;
+}
+.herocard
+{
+    background-color: #ffe8e0;
+    font-size: 1.2em !important;
+}
+
+.badge
+{
+    text-decoration: none;
+}
+.badge-one
+{
+    background-color: #8e44ad;
+    margin-right: 1em;
+}
+.badge-two
+{
+    background-color: #00aeef;
+}
+
+.imagestrip img
+{
+    width: 120px !important;
+    height: 20px !important;
+    background-color: white !important;
+}
+
+.imagestrip
+{
+    background-color: white !important;
+}
+
+.card-txtlink
+{
+    color: #cc66a0 !important;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    transition: all 0.15s ease-in-out;
+}
+
+.card-txtlink::after
+{
+    border-bottom: 5px solid #ffe8e0;
+    content:"";
+    position: absolute;
+    width:100%;
+    left: 0px;
+    top: 30px;
+    transition: all 1s cubic-bezier(0.25, 0.46, 0.45, 0.94);   
+}
+.card-txtlink:hover::after
+{
+  border-bottom: 5px solid #f2c1e4;  
+}
+.card-txtlink::before
+{
+    content:  url(https://www.adroll.com/assets/svg/icon-arrow.svg);
+    position: absolute;
+    right: -25px;
+    top: 12px;
+}
+.card-txtlink:hover
+{
+    color: #8e44ad !important;
+}
+.banner-img
+{
+    width: 250px !important;
+    height: 150px;
+}
+.banner-card
+{
+    border: 10px solid #303273;
+}
+
+.banner-content
+{
+    background-image: url(https://www.adroll.com/assets/svg/bkgd/blob-pink.svg);
+    background-position: left -60px bottom -600px;
+    background-repeat: no-repeat;
+    margin: -25px 0;
+}
+
+.banner
+{
+    background-image: url(https://www.adroll.com/assets/img/globals/bkgd-bluedot-sm.png);
+    background-position: calc(50% + 350px) calc(-50px);
+    background-repeat: no-repeat;
+}
+
+.icons img
+{
+    width: 125px !important;
+    height: 150px;
+}
+
+.banner-row
+{
+    background-color: #ffe8e0;
+}
+
+.footer-span span
+{
+    display: block;
+    padding: 3px;
+}
+
+.footer-img img
+{
+   width: 45px !important;
+   height: 35px;
+}
+
+.footer-img-set img
+{
+    width: 85px !important;
+    height: 40px;
+}
+
+.logo-img
+{
+    width: 200px !important;
+    height: 40px;
+}
+.logo-imga
+{
+    width: 81px !important;
+    height: 15px;
+}
+.logo-imgb
+{
+    width: 115px !important;
+    height: 15px;
+}
+.logo-imgc
+{
+    width: 25px !important;
+    height: 15px;
+}
+.custom-btn
+{
+    width: fit-content !important;
+}
+.bottom-banner
+{
+    background-color: #f4f6f9;
+}
